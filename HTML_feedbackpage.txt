@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>register.html</title>
+</head>
+<body bgcolor="light green">
+<font type="arial" size="5">
+<center>
+Enter Your Feddback :
+<input type="TextArea" size="11" name="t3">
+<a href="regis.html"><button type="button">Submit</button></a>
+&nbsp &nbsp
+<input type="Reset" value ="Reset">
+</font>
+</body>
+</html>
